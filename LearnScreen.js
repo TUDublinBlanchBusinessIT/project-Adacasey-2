@@ -312,7 +312,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.cardAlt,
   },
   secondaryBtnText: {
-    color: colors.text,
+    color: coloros.text,
     fontSize: 13,
     fontWeight: "600",
   },
